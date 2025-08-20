@@ -414,6 +414,7 @@ img {
   border-radius: 0.5rem;
   justify-self: center;
   align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .about__description {
@@ -1206,7 +1207,7 @@ img {
       width: 350px;
     }
     .about__description {
-      text-align: initial;
+      text-align: justify;
     }
     .about__info {
       justify-content: space-between;
